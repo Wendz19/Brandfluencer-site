@@ -1,0 +1,12 @@
+#banner-video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner-container {
+  width: 100%;
+  max-height: 200px;
+  overflow: hidden;
+  position: relative;
+}
